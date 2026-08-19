@@ -1,0 +1,9 @@
+{
+  "name": "living-room-media-session-probe",
+  "appName": "Media Session Probe",
+  "version": "0.1.0",
+  "description": "Read-only Tizen MediaController probe for the Samsung remote experiment.",
+  "packageType": "app",
+  "appPath": "index.html",
+  "serviceFile": "service.js"
+}
